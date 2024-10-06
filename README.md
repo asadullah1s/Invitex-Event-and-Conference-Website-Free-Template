@@ -1,2 +1,2 @@
 # Conference-Website-On-Html
-<img src="C:\Users\Computer Arena\Downloads\Screenshot.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="C:\Users\Computer Arena\Downloads\Screenshot.jpeg" alt="Website Preview">
