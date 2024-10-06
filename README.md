@@ -1,5 +1,3 @@
-# Conference-Website-On-Html
-
 # Invitex - Event and Conference Website Template
 
 **Invitex** is a premium one-page website template designed specifically for events and conferences. Whether you're organizing a small gathering or a large-scale event, Invitex provides all the essential features you need to create a professional and engaging website. It’s responsive, highly customizable, and built to help your event stand out.
