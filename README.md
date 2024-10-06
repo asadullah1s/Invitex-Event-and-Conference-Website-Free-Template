@@ -1,2 +1,3 @@
 # Conference-Website-On-Html
-<img src="C:\Users\Computer Arena\Downloads\Screenshot.jpeg" alt="Website Preview">
+![Screenshot](https://github.com/user-attachments/assets/e6240c06-6681-443b-9404-75c9bbad0a2f)
+
