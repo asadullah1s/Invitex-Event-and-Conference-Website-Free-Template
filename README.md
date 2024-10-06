@@ -6,7 +6,7 @@
 I’ve developed this template **free for you**. Simply download it and start building your event website today. If you need me to develop any other premium template for free, feel free to text me—I'm happy to help!
 
 ### ✨ **Template Features:**
-- 3 unique homepage designs
+- 1 unique homepage designs
 - CSS gradients for modern UI
 - Boxed and full-width layout options
 - Solid, transparent, and light/dark header options
